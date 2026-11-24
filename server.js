@@ -9,6 +9,7 @@ const jogos = [
   "Xadrez - quartas-feiras",
   "Jogos de tabuleiro - quintas-feiras",
   "Campeonato de Minecraft - sextas-feiras",
+  "Torneio de Mario Kart - sábado",
 ];
 
 const equipe = [
